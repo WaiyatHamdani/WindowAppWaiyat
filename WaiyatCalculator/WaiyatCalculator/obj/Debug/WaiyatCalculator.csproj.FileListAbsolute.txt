@@ -1,0 +1,10 @@
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\bin\Debug\WaiyatCalculator.exe.config
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\bin\Debug\WaiyatCalculator.exe
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\bin\Debug\WaiyatCalculator.pdb
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.WaiyatCalculator.resources
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.Properties.Resources.resources
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.csproj.GenerateResource.cache
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.exe
+C:\Users\waiya\source\repos\WaiyatCalculator\WaiyatCalculator\obj\Debug\WaiyatCalculator.pdb
